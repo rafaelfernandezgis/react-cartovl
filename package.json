@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@carto/carto-vl": "^0.9.1",
+    "@carto/mapbox-gl": "0.48.0-carto1",
+    "ag-grid-community": "19.0.0",
+    "ag-grid-react": "^19.0.0",
+    "mapbox-gl": "^0.44.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4"
